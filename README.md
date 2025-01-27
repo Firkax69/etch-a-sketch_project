@@ -39,3 +39,5 @@ After the branch has been merged successfully, delete it locally and remotely to
 
 git branch -d feature/my-new-feature # Deletes locally
 git push origin --delete feature/my-new-feature # Deletes remotely
+
+check
