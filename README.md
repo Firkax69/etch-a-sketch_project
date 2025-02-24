@@ -1,11 +1,11 @@
 # Etch-A-Sketch project
 
-The goal is to create responsive Etch-A-Sketch game using React.
-
-HTML
-CSS
-React
-JS
+The goal is to create responsive Etch-A-Sketch game using:
+React,
+HTML,
+CSS,
+React,
+JS.
 
 ------
 
