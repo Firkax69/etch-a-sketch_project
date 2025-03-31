@@ -10,16 +10,17 @@ JS.
 ------
 
 To Work with a New Branch and Merge Changes
+
 Step 7: Create a New Branch:
 Before starting work on a new feature or bug fix, create a new branch:
-git checkout -b feature/my-new-feature
+`git checkout -b feature/my-new-feature`
 
 Step 8: Make Changes and Commit:
-git add .
-git commit -m "Added new feature or made changes"
+`git add .`
+`git commit -m "Added new feature or made changes"`
 
 Step 9: Push the Branch to the Remote Repository:
-git push -u origin feature/my-new-feature
+`git push -u origin feature/my-new-feature`
 Why: Shares your branch with the remote repository, allowing collaboration or a backup.
 
 Step 10: Merge the Branch into main:
