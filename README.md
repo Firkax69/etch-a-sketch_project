@@ -30,7 +30,7 @@ Pull the latest changes to ensure you’re up to date:
 git pull origin main
 
 Merge the feature branch into main:
-git merge feature/my-new-feature
+`git merge feature/my-new-feature`
 
 Push the updated main branch to the remote repository:
 git push origin main
