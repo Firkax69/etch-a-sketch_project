@@ -24,7 +24,7 @@ Step 9: Push the Branch to the Remote Repository:
 Why: Shares your branch with the remote repository, allowing collaboration or a backup.
 
 Step 10: Merge the Branch into main:
-git checkout main
+`git checkout main`
 
 Pull the latest changes to ensure you’re up to date:
 git pull origin main
