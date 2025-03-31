@@ -39,6 +39,6 @@ Optional Step 11: Delete the Merged Branch
 After the branch has been merged successfully, delete it locally and remotely to keep your repository clean:
 
 `git branch -d feature/my-new-feature` # Deletes locally
-git push origin --delete feature/my-new-feature # Deletes remotely
+`git push origin --delete feature/my-new-feature` # Deletes remotely
 
 check
