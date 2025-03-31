@@ -33,7 +33,7 @@ Merge the feature branch into main:
 `git merge feature/my-new-feature`
 
 Push the updated main branch to the remote repository:
-git push origin main
+`git push origin main`
 
 Optional Step 11: Delete the Merged Branch
 After the branch has been merged successfully, delete it locally and remotely to keep your repository clean:
