@@ -27,7 +27,7 @@ Step 10: Merge the Branch into main:
 `git checkout main`
 
 Pull the latest changes to ensure you’re up to date:
-git pull origin main
+`git pull origin main`
 
 Merge the feature branch into main:
 `git merge feature/my-new-feature`
